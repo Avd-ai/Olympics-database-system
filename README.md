@@ -2,7 +2,8 @@
 
 This project is a development of a database system in SQL.
 The repository has two main components :
-A) Code used to implement a database
+
+A) Code used to implement a database.  
 B) Presentation to demonstrate the idea of the project,  how the project was designed , its implementation, and finally the analysis performed.
 
 The phases include the creation of a database, tables, along with various columns. 
