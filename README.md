@@ -1,6 +1,6 @@
 # Olympics-database-system
 
-This project is a development of a database system in SQL.
+This project is a development of a relational database system in SQL.
 The repository has two main components :
 
 A) Code used to implement a database.  
